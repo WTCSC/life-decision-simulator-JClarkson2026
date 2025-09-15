@@ -1,5 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/iDZRBYvt)
 
+![Tree](adventure_flowchart.png)
+
 # Life Decision
 Life Decision is a surreal, text-based decision game that throws the player into a bizarre simulation of waking life — where every mundane choice (like getting out of bed or petting your dog Charlie) can spiral into the unexpected, the absurd, or the metaphysical.
 
